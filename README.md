@@ -13,6 +13,8 @@ The primary goal of this thesis is to identify areas suitable for afforestation 
 
 [2. Layer Subtraction.ipynb](2.%20Layer%20Subtraction.ipynb)
 
+[3. Distribution by counties.ipynb](3.%20Distribution%20by%20counties.ipynb)
+
 
 ## Final Result
 
