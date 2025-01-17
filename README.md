@@ -12,3 +12,9 @@ The primary goal of this thesis is to identify areas suitable for afforestation 
 [1. Vector to Raster.ipynb](1.%20Vector%20to%20Raster.ipynb)
 
 [2. Layer Subtraction.ipynb](2.%20Layer%20Subtraction.ipynb)
+
+
+## Final Result
+
+Link to the final output: TIFF-file with the areas, potentially suitable for afforestation in Estonia
+[Areas_potentially_suitable_for_afforestation_in_Estonia.tif](https://drive.google.com/file/d/18UfueHgY1BhWIjCGFHPTuVlg4A1XkCC7/view?usp=sharing)
