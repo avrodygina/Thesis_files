@@ -15,6 +15,8 @@ The primary goal of this thesis is to identify areas suitable for afforestation 
 
 [3. Distribution by counties.ipynb](3.%20Distribution%20by%20counties.ipynb)
 
+[4. Distribution by ownership](4.%20Distribution%20by%20ownership)
+
 
 ## Final Result
 
